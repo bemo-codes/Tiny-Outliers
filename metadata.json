@@ -1,0 +1,6 @@
+{
+  "name": "CARE/ROUTE — Emergency Care Coordination",
+  "description": "Emergency care coordination and smart hospital routing system with explainable deterministic matching, resource freshness checks, and one-tap emergency calling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
